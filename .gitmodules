@@ -1,0 +1,6 @@
+[submodule "cpuinfo"]
+	path = cpuinfo
+	url = https://github.com/kloewe/mod-cpuinfo.git
+[submodule "cpuinfo-m"]
+	path = cpuinfo-m
+	url = https://github.com/kloewe/mod-cpuinfo-m.git
